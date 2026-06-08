@@ -38,7 +38,7 @@ export const projects: Project[] = [
     description:
       'A collaborative AI-powered personal finance assistant with multi-turn dialogue, budgeting guidance, and financial literacy coaching built on IBM watsonx Assistant.',
     category: 'Full-Stack · Conversational AI',
-    status: 'in-progress',
+    status: 'completed',
     flagship: false,
     challenge:
       'Designing agentic conversational workflows that handle multi-turn financial guidance while maintaining context and staying accessible to non-technical users.',
