@@ -1,0 +1,16 @@
+export const meta = {
+  name: 'Lakshmi S. Kandala',
+  initials: 'LSK',
+  role: 'Computer Engineer',
+  school: 'San Jose State University',
+  degree: 'B.S. Computer Engineering',
+  grad: 'May 2027',
+  emailSchool: 'lakshmi.kandala@sjsu.edu',
+  emailPersonal: 'lakshmiskandala@gmail.com',
+  linkedin: 'https://linkedin.com/in/lakshmi-s-kandala/',
+  github: 'https://github.com/Lakshmikandala0103',
+  tagline: 'Computer Engineer focused on embedded systems, robotics software, and full-stack development.',
+  about: `I am a Computer Engineering student at San Jose State University with a focus on building systems that connect software, hardware, and AI. My work spans full-stack applications, database engineering, embedded AI, and machine learning research. I am passionate about turning complex technical ideas into systems that are reliable, purposeful, and human-centered.`,
+  orgs: ['Rewriting the Code', 'Women Who Code', 'Society of Women Engineers'],
+  resumeUrl: '/resume.pdf',
+}
